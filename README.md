@@ -1,17 +1,14 @@
 <!-- Intro -->
-<h3 align="center">
-  <samp>&gt; Hi 👋, I'm <b>Sushant Nistane</b></samp>
-</h3>
+<h1 align="center">Hi 👋, I'm Sushant Nistane</h1>
+<h3 align="center">💻 I'm a full-stack developer & AI/ML enthusiast.</h3>
 
-<p align="center">
-  <samp>
-    💻 Full-stack developer & AI/ML enthusiast. <br>
-    🚀 Working on: Financial Coach App. <br>
-    🤝 Open to AI & Web Dev collaborations. <br>
-    📚 Learning: Next.js. <br>
-  </samp>
-</p>
-
+# 💫 About Me
+💬 Passionate About:<br>
+AI/ML development<br>
+Full-stack web development<br>
+🔭 I’m currently working on: Financial Coach App<br>
+👯 I’m open to collaborating on AI & Web Dev projects<br>
+🌱 I’m currently learning: Next.js
 ---
 
 ## 🌐 Socials
