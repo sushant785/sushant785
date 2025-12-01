@@ -66,15 +66,15 @@ Full-stack web development<br>
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushant785&theme=dark&show_icons=true" alt="Sushant's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sushant785&show_icons=true&theme=dark&hide_border=false" alt="Sushant's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushant785&theme=dark" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=sushant785&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant785&layout=compact&theme=dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant785&layout=compact&theme=dark&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
